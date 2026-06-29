@@ -6,8 +6,8 @@
 // ==========================================
 // 1. KONFIGURASI WIFI & FIREBASE
 // ==========================================
-#define WIFI_SSID       "feb"            // Ganti dengan nama WiFi kamu
-#define WIFI_PASSWORD   "passwordapa"    // Ganti dengan password WiFi kamu
+#define WIFI_SSID       "SSID"            // Ganti dengan nama WiFi kamu
+#define WIFI_PASSWORD   "password"    // Ganti dengan password WiFi kamu
 #define API_KEY         "AIzaSyAzSGDRNwlLvcSCPomMYcfihT5pNdaYXKA"
 #define FIREBASE_PROJECT_ID "npkmonitoring-b0d7c"
 
